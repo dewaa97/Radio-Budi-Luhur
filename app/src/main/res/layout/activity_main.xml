@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bossman.radiobudiluhur.MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/icon_rbl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/radio_budi_luhur_icon_png_baru" />
+
+        <TextView
+            android:id="@+id/RadioBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="orange juice 2.0"
+            android:text="Radio Budi Luhur"
+            android:textSize="46sp" />
+
+        <TextView
+            android:id="@+id/SingleStation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="orange juice 2.0"
+            android:text="(Single Station)"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="63dp"
+            android:layout_height="65dp"
+            android:background="@drawable/ic_mic_black_48dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
