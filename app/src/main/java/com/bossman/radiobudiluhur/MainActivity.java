@@ -1,5 +1,6 @@
 package com.bossman.radiobudiluhur;
 
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -17,7 +18,8 @@ import java.util.Calendar;
 public class MainActivity extends AppCompatActivity {
 
     Button btn_play;
-    //String stream = "http://radiobudiluhur.onlivestreaming.net:8999/autodj";
+    //String stream = "http://radiobudiluhur.onlivestreaming.net:8999/live";
+    //String stream = "http://us2.internet-radio.com:8046/";
     //String stream = "http://streaming.sim-indonesia.com:8000/genfm";
     //String stream = "http://987genfm.com/streaming";
     String stream = "http://radiobudiluhur.onlivestreaming.net:8999/stream?type.flv";
@@ -56,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         btn_play.setEnabled(false);
 
         mediaPlayer = new MediaPlayer();
-        mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
+        //mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
 
         new PlayerTask().execute(stream);
 
@@ -94,6 +96,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(Boolean aBoolean) {
             super.onPostExecute(aBoolean);
+            //btn_play.setBackgroundColor(Color.parseColor("#009688"));
             btn_play.setEnabled(true);
         }
     }

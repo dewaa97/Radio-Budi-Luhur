@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bossman\AndroidStudioProjects\RadioBudiLuhur\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b32430c720ccc31d87ce5da68123fb49d1fd6da">
+        <dex dex="C:\Users\Bossman\AndroidStudioProjects\RadioBudiLuhur\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5cc0c2a94e5f5d7da7bddea060bccb64247f8af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bossman\AndroidStudioProjects\RadioBudiLuhur\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Bossman\AndroidStudioProjects\RadioBudiLuhur\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c17f9ed92a33a9994447b7c95e439c565929db82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bossman\.android\build-cache\f45cafae2f1b4aa6249e4a3b57fc7e7470f6e915\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19db49c1820719e7b71421df22d59af9bb30bee8">
+        <dex dex="C:\Users\Bossman\AndroidStudioProjects\RadioBudiLuhur\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70ffd7b734404292f38ec62b90df1cef7d769b66\classes.dex" />
+    </item>
+
+</items>

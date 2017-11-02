@@ -39,10 +39,7 @@
         <Button
             android:id="@+id/btn_play"
             android:layout_width="63dp"
-            android:layout_height="65dp"
-            android:background="@drawable/ic_mic_black_48dp" />
-
-
+            android:layout_height="65dp"/>
     </LinearLayout>
 
 </LinearLayout>

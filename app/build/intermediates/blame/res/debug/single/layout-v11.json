@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

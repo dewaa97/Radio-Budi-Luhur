@@ -1,0 +1,7 @@
+#Wed Sep 20 17:31:55 ICT 2017
+base.0=C\:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c17f9ed92a33a9994447b7c95e439c565929db82
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5cc0c2a94e5f5d7da7bddea060bccb64247f8af7\\classes.dex
+base.1=C\:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5cc0c2a94e5f5d7da7bddea060bccb64247f8af7
+file.0=C\:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c17f9ed92a33a9994447b7c95e439c565929db82\\classes.dex

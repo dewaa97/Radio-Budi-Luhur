@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bossman\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\140d227bb31c5fc8b53e9cbb1b2ab01b\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,276,399,499,612,699,805,917,999,1081,1163,1272,1376,1473,1581,1682,1785,1907,2004,2085",
+                        "endColumns": "112,107,122,99,112,86,105,111,81,81,81,108,103,96,107,100,102,121,96,80,100",
+                        "endOffsets": "163,271,394,494,607,694,800,912,994,1076,1158,1267,1371,1468,1576,1677,1780,1902,1999,2080,2181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,276,399,499,612,699,805,917,999,1081,1163,1272,1376,1473,1581,1682,1785,1907,2366,2447",
+                        "endColumns": "112,107,122,99,112,86,105,111,81,81,81,108,103,96,107,100,102,121,96,80,100",
+                        "endOffsets": "163,271,394,494,607,694,800,912,994,1076,1158,1267,1371,1468,1576,1677,1780,1902,1999,2442,2543"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bossman\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.0.aar\\e0e198460bfa5a3f035af0b0725cd0ea\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,182,242,299,357,417",
+                        "endColumns": "64,61,59,56,57,59,54",
+                        "endOffsets": "115,177,237,294,352,412,467"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2004,2069,2131,2191,2248,2306,2548",
+                        "endColumns": "64,61,59,56,57,59,54",
+                        "endOffsets": "2064,2126,2186,2243,2301,2361,2598"
+                    }
+                }
+            ]
+        }
+    ]
+}

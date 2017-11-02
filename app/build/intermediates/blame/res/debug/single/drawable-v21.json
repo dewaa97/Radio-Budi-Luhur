@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_mic_black_48dp.xml",
+        "source": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\src\\main\\res\\drawable-v21\\ic_mic_black_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bossman\\AndroidStudioProjects\\RadioBudiLuhur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Bossman\\.android\\build-cache\\522491d321d681e9aad788b61c9b8af04d6405c4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
